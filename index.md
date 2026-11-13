@@ -61,3 +61,7 @@ We may update this policy. Changes will be posted at the same URL with a new eff
 ## Contact
 
 Questions about this policy: **info.alayan@gmail.com**
+
+---
+
+[Support](support/)
