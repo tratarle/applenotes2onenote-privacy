@@ -1,12 +1,12 @@
 ---
-title: Privacy Policy — AppleNotes2OneNote
+title: Privacy Policy — NotesMigrator
 ---
 
-# Privacy Policy — AppleNotes2OneNote
+# Privacy Policy — NotesMigrator
 
 **Effective date:** November 13, 2026
 
-AppleNotes2OneNote ("the app") helps you copy your Apple Notes to Microsoft OneNote and back up or export them to local HTML and Markdown files. This policy explains what data the app handles and where it goes.
+NotesMigrator ("the app") helps you copy your Apple Notes to Microsoft OneNote and back up or export them to local HTML and Markdown files. This policy explains what data the app handles and where it goes.
 
 ## Summary
 
