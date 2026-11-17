@@ -4,7 +4,7 @@ title: Privacy Policy — NotesMigrator
 
 # Privacy Policy — NotesMigrator
 
-**Effective date:** November 13, 2026
+**Effective date:** November 17, 2026
 
 NotesMigrator ("the app") helps you copy your Apple Notes to Microsoft OneNote and back up or export them to local HTML and Markdown files. This policy explains what data the app handles and where it goes.
 
@@ -21,16 +21,17 @@ To do its job, the app reads the following on your device, only after you grant 
 
 - **Apple Notes:** folders, note text, checklists, tables, images, attachments, and scanned documents.
 - **Microsoft account:** the sign-in details needed to access your OneNote notebooks.
+- **OneNote notebooks:** when you import from OneNote into Apple Notes, the pages you choose are read from your OneNote account.
 - **Files you choose:** folders you select for export, backup, or import.
 
 ## How your data is used and stored
 
 - **Migration to OneNote:** note content is sent directly from your device to Microsoft Graph (`graph.microsoft.com`) using your Microsoft account. Microsoft processes that data under its own privacy terms.
-- **Microsoft sign-in:** authentication runs through Microsoft's login service (`login.microsoftonline.com`). Access tokens are stored in your device's Keychain. If you use iCloud Keychain, Apple may sync them across your own devices.
-- **Sign-in settings:** some configuration is stored in iCloud key-value storage so your settings follow your Apple ID.
+- **Microsoft sign-in:** authentication runs through Microsoft's login service (`login.microsoftonline.com`). Access tokens are stored in this device's Keychain only and are not synced to your other devices.
+- **Import into Apple Notes:** pages you import from OneNote are written into the Notes app on your device.
 - **Local backups and exports:** files are written only to locations you choose on your device.
 - **Migration history:** a record of completed migrations is stored locally on your device so the app can avoid duplicate imports. It is not sent to us.
-- **Free-trial usage:** the count of notes you have migrated is kept on your device.
+- **Free version:** the free note limit is checked on your device. No usage data is sent to us.
 
 ## Purchases
 
