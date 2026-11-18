@@ -4,7 +4,7 @@ title: Privacy Policy — NotesMigrator
 
 # Privacy Policy — NotesMigrator
 
-**Effective date:** November 17, 2026
+**Effective date:** November 18, 2026
 
 NotesMigrator ("the app") helps you copy your Apple Notes to Microsoft OneNote and back up or export them to local HTML and Markdown files. This policy explains what data the app handles and where it goes.
 
@@ -19,7 +19,7 @@ NotesMigrator ("the app") helps you copy your Apple Notes to Microsoft OneNote a
 
 To do its job, the app reads the following on your device, only after you grant permission or start an action:
 
-- **Apple Notes:** folders, note text, checklists, tables, images, attachments, and scanned documents.
+- **Apple Notes:** folders, note text, checklists, tables, images, attachments, and scanned documents. On iPhone and iPad, the app only receives the notes your Shortcut passes to it and keeps them on the device until you migrate them.
 - **Microsoft account:** the sign-in details needed to access your OneNote notebooks.
 - **OneNote notebooks:** when you import from OneNote into Apple Notes, the pages you choose are read from your OneNote account.
 - **Files you choose:** folders you select for export, backup, or import.
@@ -35,7 +35,7 @@ To do its job, the app reads the following on your device, only after you grant 
 
 ## Purchases
 
-Subscriptions are processed by Apple through the App Store. We receive only the information Apple provides to confirm your subscription status. We never see your payment details.
+Subscriptions and the lifetime purchase are processed by Apple through the App Store. We receive only the information Apple provides to confirm your purchase status. We never see your payment details.
 
 ## Third-party services
 
@@ -50,10 +50,10 @@ The app is not directed at children under 13 and does not knowingly collect info
 
 ## Your choices
 
-- Revoke the app's access to Apple Notes or files in System Settings (macOS) or Settings (iOS and iPadOS).
+- Revoke the app's access to Apple Notes in System Settings → Privacy & Security → Automation (macOS). On iPhone and iPad, delete the notes received from your Shortcut by deleting the app.
 - Sign out of your Microsoft account inside the app to delete its stored tokens.
 - Delete the app to remove its local data.
-- Manage or cancel your subscription in your Apple ID account settings.
+- Manage or cancel your subscription in your Apple Account settings.
 
 ## Changes to this policy
 

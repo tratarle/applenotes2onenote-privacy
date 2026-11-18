@@ -13,7 +13,7 @@ Need help? Email **info.alayan@gmail.com** and include your device (Mac, iPhone,
 
 iOS does not let other apps read Apple Notes directly. Use one of these:
 
-- **Apple Shortcut:** in the app, tap **Install 'Export Apple Notes' Shortcut** and run it. It sends your notes to NotesMigrator.
+- **Apple Shortcut:** in the app's Setup Assistant, tap **Get the Shortcut**, add it and run it. It passes your notes to NotesMigrator. See [the Shortcut page]({{ site.baseurl }}/shortcut/).
 - **Backup folder:** tap **Import Backup Folder** and choose an exported notes folder from iCloud Drive or Files.
 
 ### The Mac app can't read my notes
@@ -30,9 +30,9 @@ You can migrate up to 5 notes for free so you can check the results in OneNote f
 
 ### How does NotesMigrator Pro work?
 
-NotesMigrator Pro is a yearly auto-renewable subscription that unlocks unlimited notes. It renews automatically unless you cancel at least 24 hours before the end of the current period.
+NotesMigrator Pro unlocks unlimited notes. Choose either a yearly auto-renewable subscription or a one-time lifetime purchase. The subscription renews automatically unless you cancel at least 24 hours before the end of the current period; the lifetime purchase never renews.
 
-- **Manage or cancel:** open your Apple ID account settings → **Subscriptions**.
+- **Manage or cancel the subscription:** open your Apple Account settings → **Subscriptions**.
 - **Restore on a new device:** open the Pro screen in the app and tap **Restore Previous Purchase**.
 
 ### Is my data private?
