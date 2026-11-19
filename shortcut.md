@@ -14,9 +14,13 @@ passes each one to NotesMigrator. Everything stays on your device until you migr
 
 ## Run it
 
-1. Open **Shortcuts** and tap **NotesMigrator: Send All Notes**. The first time, allow it to access Notes.
-2. Wait until it finishes (about a second per note).
-3. Open NotesMigrator. Your notes load automatically and appear by folder.
+1. In NotesMigrator, tap **Import My Notes**. Shortcuts opens and runs **NotesMigrator: Send All Notes**.
+2. The first time, Shortcuts asks twice: to access Notes and to share them with NotesMigrator. Tap **Always Allow**
+   both times.
+3. Wait until it finishes (about a second per note). Shortcuts brings you back to NotesMigrator, which shows how many
+   notes arrived.
+
+You can also run the Shortcut straight from the Shortcuts app; your notes load the next time you open NotesMigrator.
 
 Running the Shortcut again updates notes that were already sent instead of adding copies.
 
@@ -41,7 +45,9 @@ Locked notes are skipped by the Notes app. To send only some notes, add a filter
 
 ## Other ways
 
-You can also import a folder of HTML or Markdown files: in NotesMigrator, open the Setup Assistant and tap **Import
-Backup Folder**.
+You can also import a folder of HTML or Markdown files: in NotesMigrator, tap **Import My Notes**, open **Other ways
+to import** and tap **Choose Files**.
+
+Have a Mac? NotesMigrator for Mac reads all your notes directly, including attachments, without a Shortcut.
 
 Questions? See [Support]({{ site.baseurl }}/support/).
