@@ -5,16 +5,9 @@ permalink: /support/
 
 # NotesMigrator Support
 
-Need help? Email **info.alayan@gmail.com** and include your device (Mac, iPhone, or iPad) and what you were trying to do. We usually reply within two business days.
+Need help? Email **info.alayan@gmail.com** and include your macOS version and what you were trying to do. We usually reply within two business days.
 
 ## Frequently asked questions
-
-### How do I get my Apple Notes into the app on iPhone or iPad?
-
-iOS does not let other apps read Apple Notes directly. Use one of these:
-
-- **Apple Shortcut:** in the app's Setup Assistant, tap **Get the Shortcut**, add it and run it. It passes your notes to NotesMigrator. See [the Shortcut page]({{ site.baseurl }}/shortcut/).
-- **Backup folder:** tap **Import Backup Folder** and choose an exported notes folder from iCloud Drive or Files.
 
 ### The Mac app can't read my notes
 
