@@ -19,7 +19,7 @@ NotesMigrator ("the app") helps you copy your Apple Notes to Microsoft OneNote a
 
 To do its job, the app reads the following on your device, only after you grant permission or start an action:
 
-- **Apple Notes:** folders, note text, checklists, tables, images, attachments, and scanned documents. On iPhone and iPad, the app only receives the notes your Shortcut passes to it and keeps them on the device until you migrate them.
+- **Apple Notes:** folders, note text, checklists, tables, images, attachments, and scanned documents.
 - **Microsoft account:** the sign-in details needed to access your OneNote notebooks.
 - **OneNote notebooks:** when you import from OneNote into Apple Notes, the pages you choose are read from your OneNote account.
 - **Files you choose:** folders you select for export, backup, or import.
@@ -50,7 +50,7 @@ The app is not directed at children under 13 and does not knowingly collect info
 
 ## Your choices
 
-- Revoke the app's access to Apple Notes in System Settings → Privacy & Security → Automation (macOS). On iPhone and iPad, delete the notes received from your Shortcut by deleting the app.
+- Revoke the app's access to Apple Notes in System Settings → Privacy & Security → Automation.
 - Sign out of your Microsoft account inside the app to delete its stored tokens.
 - Delete the app to remove its local data.
 - Manage or cancel your subscription in your Apple Account settings.
