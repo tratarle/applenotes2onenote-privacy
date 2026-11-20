@@ -8,9 +8,8 @@ permalink: /shortcut/
 iOS doesn't let apps read the Notes app directly. The **NotesMigrator: Send All Notes** Shortcut finds your notes and
 passes each one to NotesMigrator. Everything stays on your device until you migrate it to your own OneNote account.
 
-<!-- ICLOUD_SHORTCUT_LINK: replace the next paragraph with the iCloud link once it exists, e.g.
-[**Add “NotesMigrator: Send All Notes” to Shortcuts**](https://www.icloud.com/shortcuts/…) -->
-**Add the Shortcut:** build it in a minute with the steps below.
+[**Add “NotesMigrator: Send All Notes” to Shortcuts**](https://www.icloud.com/shortcuts/f97c4464ea92428eaf6de1c9736a4145)
+(NotesMigrator opens this link for you when you tap **Add the Shortcut**.)
 
 ## Run it
 
@@ -25,6 +24,10 @@ You can also run the Shortcut straight from the Shortcuts app; your notes load t
 Running the Shortcut again updates notes that were already sent instead of adding copies.
 
 ## Build it yourself
+
+The ready-made Shortcut above is the easiest way. It sends your notes in batches, so it works with any number of
+notes. The simple version below works for up to about 500 notes (Shortcuts stops a single search after 30 seconds),
+or for one folder at a time.
 
 NotesMigrator must be installed first, so its action appears in Shortcuts.
 
